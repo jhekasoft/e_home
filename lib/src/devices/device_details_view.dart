@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:fl_chart/fl_chart.dart';
 
 /// Displays detailed information about a SampleItem.
-class SampleItemDetailsView extends StatelessWidget {
-  SampleItemDetailsView({super.key});
+class DeviceDetailsView extends StatelessWidget {
+  DeviceDetailsView({super.key});
 
   static const routeName = '/sample_item';
 
